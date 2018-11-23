@@ -56,7 +56,7 @@ Ref.: https://wikipedia.org/wiki/K-d_tree
 -	[x] __level_order__(tree, include_all=False) - Iterator over the tree in level-order
 -	[x] __visualize__(...) - Prints the tree to stdout
 	
-## How to compile
+## How to run
 
 First of all, obviously this repository is needed to work as desired, so we must to download this repo. As we know that `git` is a tremendous tool for any programmer, then we must have git installed. Make sure also that you have installed python 3 version on your computer.
 
@@ -67,7 +67,7 @@ $ git clone https://github.com/ozielalves/K-D-Tree.git
 # Enter repo:
 $ cd K-D-Tree
 
-# To compile the test cases inside of path's root:
+# To the test cases inside of path's root:
 $ python3 driver.py
 ```
 ## GitHub Repository:
